@@ -1,1 +1,1 @@
-This is a minimum version of the real working application.
+This is a minimal version of the fully functional application.
